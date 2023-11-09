@@ -1,2 +1,0 @@
-model_adam/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
-model_rmsprop_original/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
